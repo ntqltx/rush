@@ -1,2 +1,2 @@
-# no-manager
-package manager for no time
+# rush
+Roblox Package Manager from no time! devs
